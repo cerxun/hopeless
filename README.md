@@ -14,30 +14,26 @@
 2. **Распакуйте архив**:
    ```bash
    tar -xzf hopeless.tgz
-Перейдите в директорию:
+3. **Перейдите в директорию:**
+   ```bash
+   cd hopeless
+4. **Соберите программу:**
+   ```bash
+   make
+5. **Перейдите под пользователем root и зайдите в директорию hopeless**
+6. **Установите программу:**
+   ```bash
+   make install
+   
+### Пути установки
 
-bash
-cd hopeless
-Соберите программу:
+- Исполняемый файл: /usr/local/bin/hopeless
+- Библиотечные модули: /usr/local/share/hopeless
+- Документация: /usr/local/man/man1/hopeless.1
 
-bash
-make
-Перейдите под пользователем root и зайдите в директорию hopeless
-
-Установите программу:
-
-bash
-make install
-Пути установки
-Исполняемый файл: /usr/local/bin/hopeless
-
-Библиотечные модули: /usr/local/share/hopeless
-
-Документация: /usr/local/man/man1/hopeless.1
-
-Просмотр документации
+### Просмотр документации
 После установки документацию можно просмотреть командой:
+   ```bash
+   man hopeless
 
-bash
-man hopeless
-Источник: http://stolyarov.info/misc/hopeless
+**[Источник: ]([https://example.com](http://stolyarov.info/misc/hopeless))**
