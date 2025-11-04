@@ -36,4 +36,4 @@
    ```bash
    man hopeless
 
-**[Источник: ]([https://example.com](http://stolyarov.info/misc/hopeless))**
+### ([Источник: ](http://stolyarov.info/misc/hopeless))
