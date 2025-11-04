@@ -36,4 +36,5 @@
    ```bash
    man hopeless
 
-### ([Источник: ](http://stolyarov.info/misc/hopeless))
+*Источник: [stolyarov.info][source]*
+[source]: http://stolyarov.info/misc/hopeless "Hopeless interpreter"
